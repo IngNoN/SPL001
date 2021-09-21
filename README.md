@@ -1,2 +1,2 @@
 # SPL001
-Hallo das ist mein erstes Git Projekt
+``printf("Hello World!")``
